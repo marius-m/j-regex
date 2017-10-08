@@ -3,7 +3,7 @@ package lt.markmerkk.regex
 import org.junit.Test
 import org.assertj.core.api.Assertions.*
 
-class IpAddress {
+class DotMetaChar {
 
     val regexFind = RegexFind()
 
